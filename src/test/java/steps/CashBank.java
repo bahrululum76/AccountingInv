@@ -50,6 +50,7 @@ public class CashBank {
 	}
 
 	@When("I enter Bank Account Number")
+	123
 	public void i_enter_bank_account_number() {
 
 		String randomNumber = RandomStringUtils.randomNumeric(8);
